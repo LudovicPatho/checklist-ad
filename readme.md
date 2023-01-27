@@ -1,3 +1,6 @@
+# Cheat sheet
+- https://amr-git-dot.github.io/offensive/Priv-esc/
+
 # Blue team Tools
 Voici une belle compilation de tools Open Source et un peu de propriétaires autour du Blue Teaming (dans le cadre d'un SOC, gestion de crises, etc.)
 
